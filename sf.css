@@ -1,0 +1,16 @@
+
+h1{
+	font-family: fantasy;
+	font-size: 3em;
+	border-bottom:2px solid pink;
+	width:400px;
+	text-align: center;
+    box-shadow: 4px 4px 5px #88888888;
+   margin-top: 50px;
+}
+.heading{
+        text-align: center;
+}
+li{
+	text-underline-position: bottom;
+}
